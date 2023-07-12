@@ -1,7 +1,7 @@
 # Decentralized-Star-Notary-Service-Project
 # Truffle and OpenZeppelin versions used in the project
-Truffle: 9.6.6
-openzeppelin: 9.6.6
+Truffle: v5.9.0 (core 5.9.0) <br/>
+Solidity: v0.5.16 (solc-js)
 
 # ERC-721 Token Name
 Token Name : "Star Token"
