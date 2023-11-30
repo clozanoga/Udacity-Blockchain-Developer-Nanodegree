@@ -2,15 +2,24 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
-The DApp User Interface when running should look like...
+# Contract Addresses
+The project's contracts have been deployed to Goerli:
+* Migrations
+* FarmerRole
+* DistributorRole
+* RetailerRole
+* ConsumerRole
+* SupplyChain
 
-![truffle test](images/ftc_product_overview.png)
+The DApp User Interface looks like...
 
-![truffle test](images/ftc_farm_details.png)
+![truffle test](images/Udacity_1__ProductOverview.png)
 
-![truffle test](images/ftc_product_details.png)
+![truffle test](images/Udacity_2_FarmDetails.png)
 
-![truffle test](images/ftc_transaction_history.png)
+![truffle test](images/Udacity_3_ProductDetails.png)
+
+![truffle test](images/Udacity_4_TxHistory.png)
 
 
 ## Getting Started
