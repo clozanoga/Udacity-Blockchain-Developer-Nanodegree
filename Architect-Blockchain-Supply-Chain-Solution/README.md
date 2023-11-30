@@ -11,15 +11,29 @@ The project's contracts have been deployed to Goerli:
 * ConsumerRole
 * SupplyChain
 
+# UML Diagrams
+## Activity Diagram
+![truffle test](images/ActivityDiagram.png)
+## Sequence Diagram
+![truffle test](images/SequenceDiagram.png)
+## State Diagram
+![truffle test](images/StateDiagram.png)
+## Data Diagram
+![truffle test](images/DataDiagram.png)
+
+
+# DApp User Interface
 The DApp User Interface looks like...
 
-![truffle test](images/Udacity_1__ProductOverview.png)
+![truffle test](images/Udacity_1_ProductOverview.PNG)
 
-![truffle test](images/Udacity_2_FarmDetails.png)
+![truffle test](images/Udacity_2_FarmDetails.PNG)
 
-![truffle test](images/Udacity_3_ProductDetails.png)
+![truffle test](images/Udacity_3_ProductDetails.PNG)
 
-![truffle test](images/Udacity_4_TxHistory.png)
+![truffle test](images/Udacity_4_TxHistory.PNG)
+
+
 
 
 ## Getting Started
