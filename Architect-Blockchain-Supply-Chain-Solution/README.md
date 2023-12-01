@@ -5,11 +5,22 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 # Contract Addresses
 The project's contracts have been deployed to Goerli:
 * Migrations
-* FarmerRole
+  tx https://goerli.etherscan.io/tx/0xcc0bc1b0cb210fa6663e97e5c94709ff83df02c28f91c7bd2b3f20c486880598   
+* FarmerRole 
+  tx https://goerli.etherscan.io/tx/0x9646dcc14e86ce1f7ef22a655061cb8bfe79bb374dffbd91e155e69daef6e8a7
+  contract https://goerli.etherscan.io/address/0xa71c53a82e7530b01889e3ec35c185a9e07a21ad
 * DistributorRole
+  tx https://goerli.etherscan.io/tx/0xda5a7af78b503a8e0ff5cf335197e60ee63d76b8c48f7ec29cfc3109844e3a3b
+  contract https://goerli.etherscan.io/address/0x238f37377b0e47f7cd07b4b6ed44dee3a61b406b
 * RetailerRole
+  tx https://goerli.etherscan.io/tx/0x96e2fb992b47ef3a579015d1513d05af5584aadd8fdafddc4c4e28c61eff0584
+  contract https://goerli.etherscan.io/address/0xe36dfbcc97b2dadfcdf7859a7b26e977bb4b321f
 * ConsumerRole
+  tx https://goerli.etherscan.io/tx/0x6dff8496b09683bc11c8526f4be51385a7fda9bb34d859b274e4e3e76ad6168d
+  contract https://goerli.etherscan.io/address/0x10cc67197cbb3b7c13d536c833ac0b14dc4815de
 * SupplyChain
+  tx https://goerli.etherscan.io/tx/0x004da1b85abb4f5cf0efc8f5b282e7e69d10d95130a415be78a97c8618e17343
+  contract https://goerli.etherscan.io/address/0x442e8dd7efc2025f133ff25406eb26d5a806ffc2
 
 # UML Diagrams
 ## Activity Diagram
